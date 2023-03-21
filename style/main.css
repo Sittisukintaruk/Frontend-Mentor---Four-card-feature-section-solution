@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card {
+    @apply rounded-md border-t-4  pl-[30px] pb-[30px] pr-[25px] pt-6 shadow-xl;
+  }
+
+  .icon {
+    @apply mt-[31px] ml-auto;
+  }
+}
