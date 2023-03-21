@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [live site URL ](https://dreamy-youtiao-65bbc4.netlify.app/)
-- Github URL: [Git](https://github.com/Sittisukintaruk/Frontend-Mentor---3-column-preview-card-component-solution)
+- Github URL: [Git](https://github.com/Sittisukintaruk/Frontend-Mentor---Four-card-feature-section-solution)
 
 ### Built with
 
